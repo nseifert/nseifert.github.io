@@ -3,18 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nseifert.github.io/categories/</loc>
+    <loc>http://nseifert.github.io/blog/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://nseifert.github.io/criticism/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/criticism/2019/06/cryptopsy-none-so-vile/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/science/cv/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nseifert.github.io/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/science/pubs/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/science/science/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/science/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://nseifert.github.io/tags/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/blog/2019/06/this-is-a-test/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/tags/metal/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/tags/test/</loc>
+    <lastmod>2019-06-07T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</loc>
+    <lastmod>2019-03-27T21:30:00+01:00</lastmod>
   </url>
   
 </urlset>

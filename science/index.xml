@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sciences on Nathan Seifert</title>
+    <link>http://nseifert.github.io/science/</link>
+    <description>Recent content in Sciences on Nathan Seifert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jun 2019 15:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://nseifert.github.io/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum vitae</title>
+      <link>http://nseifert.github.io/science/cv/</link>
+      <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
+      
+      <guid>http://nseifert.github.io/science/cv/</guid>
+      <description>+
+There is where I&amp;rsquo;ll write out my CV.</description>
+    </item>
+    
+    <item>
+      <title>Recent publications</title>
+      <link>http://nseifert.github.io/science/pubs/</link>
+      <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
+      
+      <guid>http://nseifert.github.io/science/pubs/</guid>
+      <description>+
+There is where I&amp;rsquo;ll summarize some recent publications.</description>
+    </item>
+    
+    <item>
+      <title>Research Interests</title>
+      <link>http://nseifert.github.io/science/science/</link>
+      <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
+      
+      <guid>http://nseifert.github.io/science/science/</guid>
+      <description>+
+This is where I&amp;rsquo;ll write my general interests.</description>
+    </item>
+    
+  </channel>
+</rss>
