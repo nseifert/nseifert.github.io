@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Nathan Seifert</title>
-    <link>http://nseifert.github.io/blog/</link>
+    <link>https://nseifert.github.io/blog/</link>
     <description>Recent content in Blogs on Nathan Seifert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2019 15:30:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nseifert.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nseifert.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This is a test</title>
-      <link>http://nseifert.github.io/blog/2019/06/this-is-a-test/</link>
+      <link>https://nseifert.github.io/blog/2019/06/this-is-a-test/</link>
       <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
       
-      <guid>http://nseifert.github.io/blog/2019/06/this-is-a-test/</guid>
+      <guid>https://nseifert.github.io/blog/2019/06/this-is-a-test/</guid>
       <description>+
 This is a test of the blogging system.</description>
     </item>
     
     <item>
       <title>Welcome to my blog</title>
-      <link>http://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</link>
+      <link>https://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</link>
       <pubDate>Wed, 27 Mar 2019 21:30:00 +0100</pubDate>
       
-      <guid>http://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</guid>
+      <guid>https://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</guid>
       <description>This page is intended to give you a feeling of what a blog post looks like. Crab supports both fixed (static) pages as well as blog posts.
 In order to make blog pages work correctly, you need proper permalinks settings in your site&amp;rsquo;s config.toml.
 Hugo will then treat all files in the blog directory (for example) like blog posts.

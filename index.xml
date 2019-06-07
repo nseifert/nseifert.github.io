@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nathan Seifert</title>
-    <link>http://nseifert.github.io/</link>
+    <link>https://nseifert.github.io/</link>
     <description>Recent content on Nathan Seifert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2019 15:30:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nseifert.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nseifert.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cryptopsy - None So Vile</title>
-      <link>http://nseifert.github.io/criticism/2019/06/cryptopsy-none-so-vile/</link>
+      <link>https://nseifert.github.io/criticism/2019/06/cryptopsy-none-so-vile/</link>
       <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
       
-      <guid>http://nseifert.github.io/criticism/2019/06/cryptopsy-none-so-vile/</guid>
+      <guid>https://nseifert.github.io/criticism/2019/06/cryptopsy-none-so-vile/</guid>
       <description>This album slays.</description>
     </item>
     
     <item>
       <title>Curriculum vitae</title>
-      <link>http://nseifert.github.io/science/cv/</link>
+      <link>https://nseifert.github.io/science/cv/</link>
       <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
       
-      <guid>http://nseifert.github.io/science/cv/</guid>
+      <guid>https://nseifert.github.io/science/cv/</guid>
       <description>+
 There is where I&amp;rsquo;ll write out my CV.</description>
     </item>
     
     <item>
       <title>Recent publications</title>
-      <link>http://nseifert.github.io/science/pubs/</link>
+      <link>https://nseifert.github.io/science/pubs/</link>
       <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
       
-      <guid>http://nseifert.github.io/science/pubs/</guid>
+      <guid>https://nseifert.github.io/science/pubs/</guid>
       <description>+
 There is where I&amp;rsquo;ll summarize some recent publications.</description>
     </item>
     
     <item>
       <title>Research Interests</title>
-      <link>http://nseifert.github.io/science/science/</link>
+      <link>https://nseifert.github.io/science/science/</link>
       <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
       
-      <guid>http://nseifert.github.io/science/science/</guid>
+      <guid>https://nseifert.github.io/science/science/</guid>
       <description>+
 This is where I&amp;rsquo;ll write my general interests.</description>
     </item>
     
     <item>
       <title>This is a test</title>
-      <link>http://nseifert.github.io/blog/2019/06/this-is-a-test/</link>
+      <link>https://nseifert.github.io/blog/2019/06/this-is-a-test/</link>
       <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
       
-      <guid>http://nseifert.github.io/blog/2019/06/this-is-a-test/</guid>
+      <guid>https://nseifert.github.io/blog/2019/06/this-is-a-test/</guid>
       <description>+
 This is a test of the blogging system.</description>
     </item>
     
     <item>
       <title>Welcome to my blog</title>
-      <link>http://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</link>
+      <link>https://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</link>
       <pubDate>Wed, 27 Mar 2019 21:30:00 +0100</pubDate>
       
-      <guid>http://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</guid>
+      <guid>https://nseifert.github.io/blog/2019/03/welcome-to-my-blog/</guid>
       <description>This page is intended to give you a feeling of what a blog post looks like. Crab supports both fixed (static) pages as well as blog posts.
 In order to make blog pages work correctly, you need proper permalinks settings in your site&amp;rsquo;s config.toml.
 Hugo will then treat all files in the blog directory (for example) like blog posts.

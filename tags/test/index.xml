@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on Nathan Seifert</title>
-    <link>http://nseifert.github.io/tags/test/</link>
+    <link>https://nseifert.github.io/tags/test/</link>
     <description>Recent content in test on Nathan Seifert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2019 15:30:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nseifert.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nseifert.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This is a test</title>
-      <link>http://nseifert.github.io/blog/2019/06/this-is-a-test/</link>
+      <link>https://nseifert.github.io/blog/2019/06/this-is-a-test/</link>
       <pubDate>Fri, 07 Jun 2019 15:30:00 +0000</pubDate>
       
-      <guid>http://nseifert.github.io/blog/2019/06/this-is-a-test/</guid>
+      <guid>https://nseifert.github.io/blog/2019/06/this-is-a-test/</guid>
       <description>+
 This is a test of the blogging system.</description>
     </item>
